@@ -1,6 +1,6 @@
 {
-    "name": "quick_gunner",
-    "short_name": "quick_gunner",
+    "name": "quick_gun_chico",
+    "short_name": "quick_gun_chico",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
